@@ -3,9 +3,6 @@ Submitted By: 214101011.
 
 To run: keep the input test files in the same folder as main.cpp.
 
-CMD : >g++ main.cpp -o m
-      >m 
-
 I have explained everything in Program Analysis.pdf and also in program comments.
 
 Note: 
